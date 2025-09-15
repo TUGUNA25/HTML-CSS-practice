@@ -65,6 +65,7 @@ body {
 .first,.second{
     font-family: inter;
     color: white;
+    font-weight: bold;
 }
 
 .first{
